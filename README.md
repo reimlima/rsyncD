@@ -3,7 +3,7 @@ My init script version to start rsync as a daemon
 
 There is only two observations to run this script:
 
-1. Be sure that the file "/etc/rsyncd.conf" exists with at least these lines on in
+1. Be sure that the file "/etc/rsyncd.conf" exists with at least these lines on it
 
 	log file = /var/log/rsyncd.log
 
